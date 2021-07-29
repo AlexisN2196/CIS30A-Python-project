@@ -1,0 +1,6 @@
+		------------------RECEIPT-----------------------
+		bag of laundry	5.00
+		dry clean shirt	4.00
+		dry clean suit	15.00
+
+		TOTAL: 	$24.00Scheduled date: (091521)

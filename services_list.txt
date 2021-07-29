@@ -1,0 +1,10 @@
+
+LAUNDRY SERVICE:
+    (A) Wash and Fold..........$5.00 per bag
+
+DRY CLEANING:
+    Price per item
+    (B) Shirt...........$4.00 
+    (C) Pants...........$8.00
+    (D) Dress...........$12.00
+    (E) Suit............$15.00
